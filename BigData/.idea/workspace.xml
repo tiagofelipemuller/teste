@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7cb40540-7dc9-42fb-bd5a-1441faa218ef" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student-master/.gradle/4.10.3/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student-master/.gradle/4.10.3/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student-master/.gradle/4.10.3/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student-master/.gradle/4.10.3/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student-master/.gradle/6.8/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student-master/.gradle/6.8/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student-master/.gradle/6.8/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student-master/.gradle/6.8/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student-master/.gradle/6.8/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student-master/.gradle/6.8/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student-master/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student-master/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student-master/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student-master/.gradle/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student-master/.gradle/configuration-cache/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student-master/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student-master/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student-master/.idea/big-data-mapreduce-hadoop3-student.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student-master/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student-master/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student-master/.idea/libraries/org_apache_hadoop_hadoop_client_3_2_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student-master/.idea/libraries/org_apache_hadoop_hadoop_common_3_2_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student-master/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student-master/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student-master/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student-master/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student-master/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student-master/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student-master/hadoop-3.2.1/bin/hadoop.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student-master/hadoop-3.2.1/bin/hadoop.exp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student-master/hadoop-3.2.1/bin/hadoop.lib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student-master/hadoop-3.2.1/bin/hadoop.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student-master/hadoop-3.2.1/bin/libwinutils.lib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student-master/hadoop-3.2.1/bin/winutils.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student-master/hadoop-3.2.1/bin/winutils.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student-master/in/JY157487.1.fasta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student-master/in/bible.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student-master/in/forestfireinput.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student-master/out/production/big-data-mapreduce-hadoop3-student-master/advanced/entropy/entropy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student-master/out/production/big-data-mapreduce-hadoop3-student/advanced/entropy/entropy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student-master/src/advanced/WordCountCombiner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student-master/src/advanced/customwritable/AverageTemperature.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student-master/src/advanced/customwritable/FireAvgTempWritable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student-master/src/advanced/customwritable/ForestFire.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student-master/src/advanced/customwritable/ForestFireWritable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student-master/src/advanced/entropy/BaseQtdWritable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student-master/src/advanced/entropy/EntropyFASTA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student-master/src/advanced/entropy/entropy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student-master/src/basic/Teste.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student-master/src/basic/WordCount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student-master/src/org/apache/hadoop/fs/FileUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tecnologias para Desenvolvimento Web/aula01/projeto" beforeDir="false" afterPath="$PROJECT_DIR$/../Tecnologias para Desenvolvimento Web/aula01/projeto" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1xBwV1CUJaL6r6tiscxWA9tU192" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7cb40540-7dc9-42fb-bd5a-1441faa218ef" name="Default Changelist" comment="" />
+      <created>1629841809930</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1629841809930</updated>
+    </task>
+    <servers />
+  </component>
+</project>
