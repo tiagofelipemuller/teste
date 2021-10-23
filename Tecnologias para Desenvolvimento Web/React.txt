@@ -1,0 +1,7 @@
+create-react-app aula06
+
+npm start
+
+npm install react-router-dom
+
+npm install firebase@8.3.1

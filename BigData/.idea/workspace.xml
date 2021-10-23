@@ -2,58 +2,66 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7cb40540-7dc9-42fb-bd5a-1441faa218ef" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student-master/.gradle/4.10.3/fileChanges/last-build.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student-master/.gradle/4.10.3/fileHashes/fileHashes.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student-master/.gradle/4.10.3/fileHashes/fileHashes.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student-master/.gradle/4.10.3/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student-master/.gradle/6.8/executionHistory/executionHistory.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student-master/.gradle/6.8/executionHistory/executionHistory.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student-master/.gradle/6.8/fileChanges/last-build.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student-master/.gradle/6.8/fileHashes/fileHashes.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student-master/.gradle/6.8/fileHashes/fileHashes.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student-master/.gradle/6.8/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student-master/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student-master/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student-master/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student-master/.gradle/checksums/checksums.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student-master/.gradle/configuration-cache/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student-master/.gradle/vcs-1/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student-master/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student-master/.idea/big-data-mapreduce-hadoop3-student.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student-master/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student-master/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student-master/.idea/libraries/org_apache_hadoop_hadoop_client_3_2_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student-master/.idea/libraries/org_apache_hadoop_hadoop_common_3_2_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student-master/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student-master/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student-master/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student-master/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student-master/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student-master/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student-master/hadoop-3.2.1/bin/hadoop.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student-master/hadoop-3.2.1/bin/hadoop.exp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student-master/hadoop-3.2.1/bin/hadoop.lib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student-master/hadoop-3.2.1/bin/hadoop.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student-master/hadoop-3.2.1/bin/libwinutils.lib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student-master/hadoop-3.2.1/bin/winutils.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student-master/hadoop-3.2.1/bin/winutils.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student-master/in/JY157487.1.fasta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student-master/in/bible.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student-master/in/forestfireinput.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student-master/out/production/big-data-mapreduce-hadoop3-student-master/advanced/entropy/entropy.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student-master/out/production/big-data-mapreduce-hadoop3-student/advanced/entropy/entropy.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student-master/src/advanced/WordCountCombiner.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student-master/src/advanced/customwritable/AverageTemperature.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student-master/src/advanced/customwritable/FireAvgTempWritable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student-master/src/advanced/customwritable/ForestFire.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student-master/src/advanced/customwritable/ForestFireWritable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student-master/src/advanced/entropy/BaseQtdWritable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student-master/src/advanced/entropy/EntropyFASTA.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student-master/src/advanced/entropy/entropy.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student-master/src/basic/Teste.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student-master/src/basic/WordCount.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student-master/src/org/apache/hadoop/fs/FileUtil.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tecnologias para Desenvolvimento Web/aula01/projeto" beforeDir="false" afterPath="$PROJECT_DIR$/../Tecnologias para Desenvolvimento Web/aula01/projeto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TDE/Big-Data/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TDE/Big-Data/out/production/big-data-mapreduce-hadoop3-student/TDE/HighestPrice.class" beforeDir="false" afterPath="$PROJECT_DIR$/TDE/Big-Data/out/production/big-data-mapreduce-hadoop3-student/TDE/HighestPrice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TDE/Big-Data/output/avgcommbrazil/._SUCCESS.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TDE/Big-Data/output/avgcommbrazil/.part-r-00000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TDE/Big-Data/output/avgcommbrazil/_SUCCESS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TDE/Big-Data/output/avgcommbrazil/part-r-00000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TDE/Big-Data/output/avgcommperyear.txt/._SUCCESS.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TDE/Big-Data/output/avgcommperyear.txt/.part-r-00000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TDE/Big-Data/output/avgcommperyear.txt/_SUCCESS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TDE/Big-Data/output/avgcommperyear.txt/part-r-00000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TDE/Big-Data/output/brazilcount.txt/._SUCCESS.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TDE/Big-Data/output/brazilcount.txt/.part-r-00000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TDE/Big-Data/output/brazilcount.txt/_SUCCESS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TDE/Big-Data/output/brazilcount.txt/part-r-00000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TDE/Big-Data/output/comm2016.txt/._SUCCESS.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TDE/Big-Data/output/comm2016.txt/.part-r-00000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TDE/Big-Data/output/comm2016.txt/_SUCCESS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TDE/Big-Data/output/comm2016.txt/part-r-00000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TDE/Big-Data/output/contagem_bible.txt/._SUCCESS.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TDE/Big-Data/output/contagem_bible.txt/.part-r-00000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TDE/Big-Data/output/contagem_bible.txt/_SUCCESS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TDE/Big-Data/output/contagem_bible.txt/part-r-00000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TDE/Big-Data/output/entropia.txt/._SUCCESS.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TDE/Big-Data/output/entropia.txt/.part-r-00000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TDE/Big-Data/output/entropia.txt/_SUCCESS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TDE/Big-Data/output/entropia.txt/part-r-00000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TDE/Big-Data/output/fire_avarege.txt/._SUCCESS.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TDE/Big-Data/output/fire_avarege.txt/.part-r-00000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TDE/Big-Data/output/fire_avarege.txt/_SUCCESS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TDE/Big-Data/output/fire_avarege.txt/part-r-00000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TDE/Big-Data/output/intermediate.tmp/._SUCCESS.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TDE/Big-Data/output/intermediate.tmp/.part-r-00000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TDE/Big-Data/output/intermediate.tmp/_SUCCESS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TDE/Big-Data/output/intermediate.tmp/part-r-00000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TDE/Big-Data/output/mostcomm.txt/._SUCCESS.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TDE/Big-Data/output/mostcomm.txt/.part-r-00000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TDE/Big-Data/output/mostcomm.txt/_SUCCESS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TDE/Big-Data/output/mostcomm.txt/part-r-00000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TDE/Big-Data/output/teste_resultado.txt/._SUCCESS.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TDE/Big-Data/output/teste_resultado.txt/.part-r-00000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TDE/Big-Data/output/teste_resultado.txt/_SUCCESS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TDE/Big-Data/output/teste_resultado.txt/part-r-00000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TDE/Big-Data/output/transactionsperflowtype.txt/._SUCCESS.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TDE/Big-Data/output/transactionsperflowtype.txt/.part-r-00000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TDE/Big-Data/output/transactionsperflowtype.txt/_SUCCESS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TDE/Big-Data/output/transactionsperflowtype.txt/part-r-00000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TDE/Big-Data/output/yearcount.txt/._SUCCESS.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TDE/Big-Data/output/yearcount.txt/.part-r-00000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TDE/Big-Data/output/yearcount.txt/_SUCCESS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TDE/Big-Data/output/yearcount.txt/part-r-00000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TDE/Big-Data/src/TDE/AvgCommBrazil_05.java" beforeDir="false" afterPath="$PROJECT_DIR$/TDE/Big-Data/src/TDE/AvgCommBrazil_05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student/src/advanced/customwritable/AverageTemperature.java" beforeDir="false" afterPath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student/src/advanced/customwritable/AverageTemperature.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student/src/advanced/customwritable/FireAvgTempWritable.java" beforeDir="false" afterPath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student/src/advanced/customwritable/FireAvgTempWritable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student/src/advanced/customwritable/ForestFire.java" beforeDir="false" afterPath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student/src/advanced/customwritable/ForestFire.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student/src/advanced/customwritable/ForestFireWritable.java" beforeDir="false" afterPath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student/src/advanced/customwritable/ForestFireWritable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student/src/advanced/customwritable/HighestPrice2.java" beforeDir="false" afterPath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student/src/advanced/customwritable/HighestPrice2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student/src/advanced/entropy/BaseQtdWritable.java" beforeDir="false" afterPath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student/src/advanced/entropy/BaseQtdWritable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student/src/advanced/entropy/EntropyFASTA.java" beforeDir="false" afterPath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student/src/advanced/entropy/EntropyFASTA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student/src/basic/WordCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student/src/basic/WordCount.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +80,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">

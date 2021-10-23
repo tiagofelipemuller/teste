@@ -2,6 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TDE/Big-Data" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/big-data-mapreduce-hadoop3-student" vcs="Git" />
   </component>
 </project>

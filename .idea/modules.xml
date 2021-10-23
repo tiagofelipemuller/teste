@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BigData/TDE/TDE.iml" filepath="$PROJECT_DIR$/BigData/TDE/TDE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BigData/big-data-mapreduce-hadoop3-student/big-data-mapreduce-hadoop3-student.iml" filepath="$PROJECT_DIR$/BigData/big-data-mapreduce-hadoop3-student/big-data-mapreduce-hadoop3-student.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/puc4.iml" filepath="$PROJECT_DIR$/.idea/puc4.iml" />
+    </modules>
+  </component>
+</project>
